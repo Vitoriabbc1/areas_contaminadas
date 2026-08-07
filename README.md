@@ -1,4 +1,4 @@
- ![capa_analise](capa1.png)
+   ![capa_analise](capa1.png)
 
 ## Visão Geral
 Este projeto realiza uma análise espacial de sobreposição e proximidade entre **Áreas Protegidas (Unidades de Conservação e APAs)** e **Focos de Áreas Contaminadas** no município do Rio de Janeiro. 
