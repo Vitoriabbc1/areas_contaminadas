@@ -215,5 +215,5 @@ html_dashboard = f"""
 with open("dashboard_ambiental.html", "w", encoding="utf-8") as f:
     f.write(html_dashboard)
 
-print("🚀 Dashboard atualizada com fonte Fira Code! Abrindo no navegador...")
+print("Abrindo no navegador...")
 webbrowser.open("file://" + os.path.realpath("dashboard_ambiental.html"))
