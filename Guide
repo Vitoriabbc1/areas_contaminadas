@@ -1,7 +1,0 @@
-## 📂 Fonte dos Dados (Data Sources)
-
-Os dados utilizados nesta análise foram obtidos a partir de fontes públicas oficiais:
-
-* **Áreas Protegidas (Unidades de Conservação e APAs):** Dados vetoriais do portal oficial de dados abertos / GeoINEA.
-* **Focos de Áreas Contaminadas:** Cadastro oficial de passivos ambientais e áreas contaminadas do município do Rio de Janeiro.
-* **Camada Processada (`data/areas_protegidas_criticas_500m.gpkg`):** Resultado do buffer e cruzamento de proximidade espacial (`ST_DWithin`) gerado via PostGIS.
