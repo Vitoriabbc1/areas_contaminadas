@@ -11,3 +11,6 @@ O objetivo é ranquear e quantificar as áreas protegidas em situação de vulne
 * **PostgreSQL / PostGIS**: Banco de dados geoespacial e consultas de proximidade (`ST_DWithin`, `ST_Transform`).
 * **QGIS**: Visualização cartográfica, simbologia temática e validação espacial.
 * **Docker**: Containerização da instância do banco de dados geoespacial.
+  
+##                                MAPA TEMÁTICO DA ANÁLISE ESPACIAL 
+![mapa](areas_protegidas.png)
